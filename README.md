@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=HELLO&nbsp;I'm&nbsp;Seul😄)<!--배경-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1030&layout=compact)](https://github.com/lee1030/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1030&layout=compact)](https://github.com/lee1030/github-readme-stats)-->
 
 
 
