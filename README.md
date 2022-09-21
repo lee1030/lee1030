@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=HELLO)<!--배경-->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=HELLO&nbsp;I'm&nbsp;Seul😄)<!--배경-->
 
 
 
