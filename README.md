@@ -1,10 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1C768F)<!--배경-->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&text=HELLO)<!--배경-->
 
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&color=1C768F)
 
 <!--
 **lee1030/lee1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
